@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name scart-conn)(type KiCad)(uri "$(KIPRJMOD)/k-scartx-024.pretty")(options "")(descr ""))
+  (lib (name rca)(type KiCad)(uri "$(KIPRJMOD)/rca.pretty")(options "")(descr ""))
+  (lib (name molex-fpc)(type KiCad)(uri /home/martin/SkumServer/eda-projects/jvc-rgb-board-stripped/molex-fpc.pretty)(options "")(descr ""))
+  (lib (name eswitch-dpdt)(type KiCad)(uri "$(KIPRJMOD)/eswitch-dpdt.pretty")(options "")(descr ""))
+  (lib (name smd-jumper)(type KiCad)(uri "$(KIPRJMOD)/smd-jumper.pretty")(options "")(descr ""))
+)
